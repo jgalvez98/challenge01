@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose was to make the webpage ADA compliant. 
+The purpose was to make the webpage ADA compliant and to fix any error that the code may had.
 ## Installation
 
 N/A
