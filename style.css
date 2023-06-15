@@ -55,7 +55,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("./images/digital-marketing-meeting.jpg");
+    background-image: url("../Challenge01/Assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -198,5 +198,5 @@ p {
 }
 
 .footer h2 {
-    font-size: 22px;
+    font-size: 20px;
 }
